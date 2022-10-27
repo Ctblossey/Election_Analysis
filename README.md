@@ -6,9 +6,9 @@
 
 ## Results
 
-- ![](https://github.com/Ctblossey/Election_Analysis/blob/main/Resources/Election%20Results.pdf)
+- ![](https://github.com/Ctblossey/Election_Analysis/blob/main/Resources/Election%20Results.png)
     
-- [Election Results](https://github.com/Ctblossey/Election_Analysis/blob/main/Resources/Election%20Results.pdf)
+- [Election Results](https://github.com/Ctblossey/Election_Analysis/blob/main/Resources/Election%20Results.png)
 
 
 ## Summary
