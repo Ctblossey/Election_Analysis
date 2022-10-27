@@ -1,4 +1,4 @@
-# Election_Analysis
+# Election Analysis
 
 ## Overview of Project
 
@@ -23,6 +23,8 @@
 
 
 ## Summary
+
+### This script can be refactored to provide the results of any election. Given that the majority of the code uses variables, it would only need to be slightly altered. First, you would need to take an input for where the csv file is located because right now it is hard coded. In addition, another input will be needed for what you would like the text file to be. Another option, but not necessary, would be to create variables for what column each data point is in. Right now, it is set up to take the count in the second column and the candidate in the third column. You can create variables to ask what column you would like to select these data points from.
 
 
 
